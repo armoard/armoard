@@ -7,7 +7,7 @@ Although I don't focus on **frontend development**, I have a strong understandin
 
 I'm an **independent** and **hard-working problem-solver** who enjoys **learning** and **building things from scratch**.  
 I'm always open to **learning new ideas**, and I genuinely appreciate any **advice** or **feedback** that helps me grow.  
-
+All of my projects, if not hosted, include a descriptive README with clear instructions on how to run them on your local machine.
 
 Feel free to contact me at **aagustinarmoaa@gmail.com**.  
 ## Technologies   
