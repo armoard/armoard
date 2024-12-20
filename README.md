@@ -5,7 +5,7 @@ I specialize in **backend development** with solid experience in **Python**, **C
 
 Although I don't focus on **frontend development**, I have a strong understanding of its workings and can seamlessly integrate it with backend systems when needed.  
 
-I'm an **independent** and **curious problem-solver** who thrives on **learning** and **building things from scratch**.  
+I'm an **independent** and **hard-working problem-solver** who enjoys **learning** and **building things from scratch**.  
 I'm always open to **learning new ideas**, and I genuinely appreciate any **advice** or **feedback** that helps me grow.  
 
 
